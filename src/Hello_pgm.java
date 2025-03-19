@@ -4,5 +4,6 @@ public class Hello_pgm {
         //print hello word
         System.out.println("Hello World");
         System.out.println("Hello World first program");
+        System.out.println("Hello World");
     }
 }
